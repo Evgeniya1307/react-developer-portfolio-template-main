@@ -29,66 +29,57 @@ export const logos = {
   logo: logo,
 };
 
-// Enter your Personal Details here
+// личные данные 
 export const personalDetails = {
-  name: "Pavan MG",
-  tagline: "I build things for web",
+  name: "Evgenia Starovoitova",
+  tagline: "I'm a Front-End Developer React",
   img: profile,
-  about: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.`,
+  about: `Моя Главная задача фронт-энд разработчика — сделать максимально удобным взаимодействие пользователей с сайтом или веб-приложением`,
 };
 
 // Enter your Social Media URLs here
 export const socialMediaUrl = {
-  linkdein: "https://www.linkedin.com/",
-  github: "https://www.github.com/",
-  twitter: "https://twitter.com/",
-  instagram: "https://www.instagram.com/",
+  linkdein: "https://www.linkedin.com/in/%D0%B5%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D1%8F-%D1%81%D1%82%D0%B0%D1%80%D0%B0%D0%B2%D0%BE%D0%B9%D1%82%D0%BE%D0%B2%D0%B0-0a2108232/",
+  github: "https://github.com/Evgeniya1307",
 };
 
-// Enter your Work Experience here
+// опыт работы
 export const workDetails = [
   {
     Position: "Frontend Web Developer",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
+    Company: `Индивидуальное предпринимательство / частная практика / фриланс`,
+    Location: "Georgia",
     Type: "Full Time",
-    Duration: "Sep 2021 - Dec 2021",
+    Duration: "Des 2021 - Feb 2021",
   },
   {
-    Position: "Internship",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
-    Type: "Internship",
-    Duration: "Sep 2021 - Dec 2021",
-  },
-  {
-    Position: "Internship",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
-    Type: "Internship",
-    Duration: "Sep 2021 - Dec 2021",
+    Position: "Frontend Web Developer React",
+    Company: `Pet Projects`,
+    Location: "Georgia",
+    Type: "Full Time",
+    Duration: "Feb 2021 - Jul 2021",
   },
 ];
 
-// Enter your Education Details here
+// курсы
 export const eduDetails = [
   {
-    Position: "Frontend Development",
+    Position: "Frontend Development React",
     Company: "Udemy, YouTube, Google, Medium",
     Location: "Online",
     Type: "Full Time",
     Duration: "Jan 2022 - Present",
   },
   {
-    Position: "Bachelor in Electronics & Communication",
-    Company: `Your College Name here`,
-    Location: "Bengaluru",
-    Type: "Full Time",
-    Duration: "Aug 2020 - Present",
+    Position: "Inzhener-stroitel",
+    Company: `Polotsk State University`,
+    Location: "Novopolotsk",
+    Type: "na vremya uchoby",
+    Duration: "Aug 2012 - Aug 2018",
   },
 ];
 
-// Tech Stack and Tools
+// Tech Stack 
 export const techStackDetails = {
   html: html,
   css: css,
