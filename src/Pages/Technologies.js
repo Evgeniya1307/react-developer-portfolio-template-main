@@ -8,8 +8,6 @@ function Technologies() {
     js,
     react,
     redux,
-    tailwind,
-    bootstrap,
     sass,
     vscode,
     git,
@@ -33,8 +31,6 @@ function Technologies() {
         <img src={js} title="JavaScript" alt="" />
         <img src={react} title="React" alt="" />
         <img src={redux} title="Redux" alt="" />
-        <img src={tailwind} title="Tailwind CSS" alt="" />
-        <img src={bootstrap} title="Bootstrap" alt="" />
         <img src={sass} title="SASS" alt="" />
         <img src={axios} title="Axios" alt="" />
       </section>
