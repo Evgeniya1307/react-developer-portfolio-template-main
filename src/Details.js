@@ -28,7 +28,7 @@ export const logos = {
   logogradient: logogradient,
   logo: logo,
 };
-// личные данные
+// личные данные обо мне
 export const personalDetails = {
   name: "Evgenia Starovoitova",
   tagline: "I'm a Front-End Developer",
