@@ -1,6 +1,6 @@
 // все данные
 // Logo images
-import logogradient from "./assets/logo.svg";
+import logogradient from "./assets/ui/images.jpg";// назад 
 import logo from "./assets/logo2.svg";
 // Profile Image
 import profile from "./assets/651787281 (1).jpeg";
@@ -9,6 +9,7 @@ import html from "./assets/techstack/html.png";
 import css from "./assets/techstack/css.png";
 import sass from "./assets/techstack/sass.png";
 import js from "./assets/techstack/js.png";
+import axios from "./assets/techstack/axios.png";
 import react from "./assets/techstack/react.png";
 import redux from "./assets/techstack/redux.png";
 import vscode from "./assets/techstack/vscode.png";
@@ -16,10 +17,10 @@ import github from "./assets/techstack/github.png";
 import git from "./assets/techstack/git.png";
 import npm from "./assets/techstack/npm.png";
 // Porject Images
-import projectImage1 from "./assets/projects/project1.jpg";
-import projectImage2 from "./assets/projects/project2.jpg";
-import projectImage3 from "./assets/projects/project3.jpg";
-import projectImage4 from "./assets/projects/project4.jpg";
+import projectImage1 from "./assets/projects/durger.jpg";
+import projectImage2 from "./assets/projects/social.jpg";
+import projectImage3 from "./assets/projects/React-Pizza.png";
+import projectImage4 from "./assets/projects/Axios-user-registration.jpg";
 import projectImage5 from "./assets/projects/project5.jpg";
 import projectImage6 from "./assets/projects/project6.jpg";
 
@@ -32,7 +33,7 @@ export const logos = {
 // личные данные 
 export const personalDetails = {
   name: "Evgenia Starovoitova",
-  tagline: "I'm a Front-End Developer React",
+  tagline: "I'm a Front-End Developer React JS",
   img: profile,
   about: `Моя Главная задача фронт-энд разработчика — сделать максимально удобным взаимодействие пользователей с сайтом или веб-приложением`,
 };
@@ -91,6 +92,7 @@ export const techStackDetails = {
   npm: npm,
   git: git,
   github: github,
+  axios: axios,
 
 };
 
